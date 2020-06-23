@@ -5,7 +5,7 @@
     * 0000000  
     * 2459137  
 
-# Bài 2
+# [Bài 2](https://github.com/toan207/ACM-Class-Notebook/tree/master/Week1_ArrayAndString/Ex2)
 * **Đề bài:** Cho một chuỗi gồm các kí tự từ a đến z. Một chuỗi được gọi là Alpha nếu mỗi kí tự chỉ xuất hiện 1 lần trong chuỗi. Kiểm tra xem 1 dãy có phải là Alpha hay không nếu có in ra YES , nếu không in ra NO.
 * >Đầu vào là 1 chuỗi kí tự có độ dài tối đa 10^6 phần tử.*
 
@@ -16,7 +16,7 @@
     * **INPUT:**    degef  
     * **OUTPUT:**   NO  
 
-# Bài 3
+# [Bài 3](https://github.com/toan207/ACM-Class-Notebook/tree/master/Week1_ArrayAndString/Ex3)
 * **Đề bài:** Cho 1 dãy các số nguyên. Sắp xếp lại dãy sao cho tất cả chữ số chẵn đứng bên trái tất cả các chữ số lẻ.
 
 * **Vd1:**
