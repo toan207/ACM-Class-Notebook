@@ -1,4 +1,4 @@
-# Bài 1
+# [Bài 1](https://github.com/toan207/ACM-Class-Notebook/tree/master/Week1_ArrayAndString/Ex1)
 * **Đề bài:** Cho 1 tấm vé số có 7 chữ số. Tấm vé số có dạng ABCDEG. Tấm vé được gọi là may mắn nếu tổng 3 chữ số đầu bằng tổng 3 chữ số cuối. Tính xác xuất để mua được 1 tấm vé may mắn.
 
 * Vd các vé số may mắn là:
