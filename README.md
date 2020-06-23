@@ -9,6 +9,6 @@
 
 ## Timeline
 
-### **Tuần 1:** Xử lý mảng và chuỗi kí tự
+### [Tuần 1: Xử lý mảng và chuỗi kí tự](https://github.com/toan207/ACM-Class-Notebook/tree/master/Week1_ArrayAndString)
 * Kỹ thuật đếm phân phối
 * Xử lý chuỗi kí tự 
