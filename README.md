@@ -9,4 +9,6 @@
 
 ## Timeline
 
-* **Tuần 1:** Xử lý mảng và chuỗi kí tự
+### **Tuần 1:** Xử lý mảng và chuỗi kí tự
+* Kỹ thuật đếm phân phối
+* Xử lý chuỗi kí tự 
