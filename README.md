@@ -4,6 +4,7 @@
 
 * Trần Thị Phương Thảo
 * Trịnh Đức Tân
+* Lê Văn Thương
 * ...
 
 ## Timeline
