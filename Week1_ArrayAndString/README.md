@@ -31,3 +31,5 @@
                 1 4 8 9 9
 
     * **OUTPUT:**   4 8 1 9 9
+
+>Src: Trịnh Đức Tân, Nguyễn Đức Minh, Lê Văn Thương
